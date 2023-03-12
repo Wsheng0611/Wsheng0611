@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Wsheng0611/count.svg" />
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsheng0611&layout=compact&theme=tokyonight)](https://github.com/Wsheng0611)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wsheng0611&show_icons=true&theme=tokyonight)](https://github.com/Wsheng06116)
